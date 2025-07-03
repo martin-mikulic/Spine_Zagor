@@ -5,7 +5,8 @@ This project is part of my learning journey exploring **Spine 2D workflows**, Un
 
 ![Zagor Spine Preview](https://martin-mikulic.github.io/Spine_Zagor/thumbnail.jpg)
 
-🔗 **[View Live Demo](https://martin-mikulic.github.io/Spine_Zagor/landscape)** (landscape) 
+🔗 **[View Live Demo](https://martin-mikulic.github.io/Spine_Zagor/landscape)** (landscape)
+
 🔗 **[View Live Demo](https://martin-mikulic.github.io/Spine_Zagor/portrait)** (portrait) 
 
 ---
